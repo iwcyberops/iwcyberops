@@ -49,8 +49,11 @@ At **IW Cyber Ops**, we don't just use tools; we analyze the **Soul of the Machi
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iwcyberops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="IW Cyber Ops Github Statistics" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iwcyberops&show_icons=true&theme=tokyonight&hide_border=true" alt="IW Cyber Ops Github Statistics" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iwcyberops&show_icons=true&theme=radical" alt="IW Cyber Ops Github Statistics" />
 </p>
 
 <p align="center">
