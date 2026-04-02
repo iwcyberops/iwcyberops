@@ -46,8 +46,11 @@ At **IW Cyber Ops**, we don't just use tools; we analyze the **Soul of the Machi
 
 ### 📊 Tactical Performance Metrics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iwcyberops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="IW Cyber Ops Github Statistics" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iwcyberops&show_icons=true&theme=tokyonight&hide_border=true" alt="IW Cyber Ops Github Statistics" />
 </p>
 
 <p align="center">
@@ -62,6 +65,14 @@ At **IW Cyber Ops**, we don't just use tools; we analyze the **Soul of the Machi
 2. **MASTER THE ARMOR** — Study the defense to perfect the blow.
 3. **GUARD THE HONOR** — Ethics and Discipline are the strongest firewalls.
 4. **REMAIN SILENT** — Move in shadows, execute with precision.
+
+---
+
+<p align="center">
+  <i>"Guided by Faith. Driven by Logic. Defined by Discipline."</i> <br>
+  <b>Hafiz of the Book. Master of the Code.</b> <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ---
 
@@ -83,11 +94,7 @@ At **IW Cyber Ops**, we don't just use tools; we analyze the **Soul of the Machi
   <img src="https://komarev.com/ghpvc/?username=iwcyberops&color=00ff41&style=flat-square&label=PROFILE+VISITS" alt="Profile Views Tracker" />
 </p>
 
-<p align="center">
-  <i>"Guided by Faith. Driven by Logic. Defined by Discipline."</i> <br>
-  <b>Hafiz of the Book. Master of the Code.</b> <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+
 ---
 ---
 
