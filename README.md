@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/b156698c-2206-4d7c-825d-27de65a2bdeb" alt="IW Cyber Ops Official Logo" width="180" height="180"/>
+   <img src="https://github.com/user-attachments/assets/b156698c-2206-4d7c-825d-27de65a2bdeb" alt="IW Cyber Ops Official Logo" width="180" height="180" style="border-radius: 50%;"/>
   <br>
   <b><font size="7">IW CYBER OPS</font></b><br>
   <i>"The quieter you become, the more you are able to hear."</i>
