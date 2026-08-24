@@ -61,7 +61,7 @@ I do not just use tools; I dissect the **Operating System's Soul**. My mission i
 ### 📊 OPERATIONAL METRICS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwcyberops&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwcyberops&theme=radical&hide_border=true" width="400" />
 </p>
 
 
