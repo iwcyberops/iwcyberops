@@ -1,8 +1,16 @@
 <div align="center">
 
   <!-- OFFICIAL BRAND EMBLEM -->
-  <img src="https://github.com/user-attachments/assets/b156698c-2206-4d7c-825d-27de65a2bdeb" alt="IW Cyber Ops Emblem" width="250" height="250" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 25px rgba(0, 255, 65, 0.4);" />
+ <!-- <img src="https://github.com/user-attachments/assets/b156698c-2206-4d7c-825d-27de65a2bdeb" alt="IW Cyber Ops Emblem" width="250" height="250" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 25px rgba(0, 255, 65, 0.4);" /> -->
 
+<img  align="center" alt="iwcyberops" src="https://github.com/user-attachments/assets/9e68034c-7d37-469e-93fc-7f73f3147eb1" />
+
+<!--
+<img width="250" height="250" alt="iwcyberops_logo" src="https://github.com/user-attachments/assets/9be46081-7dc8-4605-ae00-a7dbc84f869a" />
+-->
+<!--
+![IW Cyber Ops Emblem](https://github.com/user-attachments/assets/9e68034c-7d37-469e-93fc-7f73f3147eb1)
+-->
   <br><br>
 
   <h1>
