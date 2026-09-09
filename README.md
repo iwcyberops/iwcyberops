@@ -2,9 +2,7 @@
 
   <!-- OFFICIAL BRAND EMBLEM -->
 <img src="https://github.com/user-attachments/assets/b84eb4ff-c322-4b92-adcb-3797cb2e4ceb" alt="IW Cyber Ops Emblem" /> 
-
-  <br><br>
-
+  
   <h1>
     <font size="7" color="#00ff41"><b>IW CYBER OPS</b></font>
   </h1>
